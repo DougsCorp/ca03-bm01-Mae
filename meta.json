@@ -1,0 +1,18 @@
+﻿{
+    "ca_id":  "ca03",
+    "bm_id":  "bm01",
+    "operator":  "Mae",
+    "product":  "CogniClear",
+    "domain":  "calculatesupply.com",
+    "subdomain":  "xej",
+    "full_url":  "https://xej.calculatesupply.com",
+    "github_repo":  "",
+    "pages":  [
+                  {
+                      "path":  "/vsl/",
+                      "template":  "CBS-vsl-CogniClear",
+                      "type":  "vsl"
+                  }
+              ],
+    "status":  "draft"
+}
