@@ -9,10 +9,11 @@
     "github_repo":  "DougsCorp/ca03-bm01-Mae",
     "pages":  [
                   {
-                      "path":  "/vsl/",
+                      "path":  "/vsl1/",
                       "template":  "CBS-vsl-CogniClear",
                       "type":  "vsl"
                   }
               ],
     "status":  "deployed"
 }
+
